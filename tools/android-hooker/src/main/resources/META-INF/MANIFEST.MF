@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jgoodies-forms.jar
+Main-Class: com.nodoraiz.androidhooker.gui.Manager
+

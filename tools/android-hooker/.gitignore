@@ -1,0 +1,11 @@
+**/.gradle
+**/build/
+**/.idea/
+**/target/
+**/out/
+**/tmp/
+**/log/
+**/unzipped-android-substrate-app/
+*.iml
+**/setup.conf
+*.log
